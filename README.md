@@ -1,2 +1,3 @@
 # Tool-to-improve-performance
-This tool improves your computer performance if you have a slower one,
+
+Batch to speed up your computer's performance if you have a very slow one.
