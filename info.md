@@ -1,0 +1,10 @@
+X-MENU/
+│── main.bat  (Main Menu + Calls Other Scripts)
+│── cpu.bat   (CPU Optimization)
+│── gpu.bat   (GPU Optimization)
+│── ram.bat   (RAM Optimization)
+│── disk.bat  (Disk Speed Boost)
+│── net.bat   (Network Optimization)
+│── cleanup.bat (Delete Junk Files)
+│── services.bat (Disable Unnecessary Services)
+│── backup.bat (Backup Important Settings)
